@@ -1,4 +1,4 @@
-# Online-Java-ile-Uygulama-Gelistirme-I-Kursu---21-Ekim-2023
+# Online-Java-ile-Uygulama-Gelistirme-I-Kursu-21-Ekim-2023
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
 + Kurs __21 Ekim 2023 Cumartesi__ günü başlayacaktır.
