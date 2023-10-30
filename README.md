@@ -6,7 +6,7 @@
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __180__ saattir. Dersler __Cumartesi ve Pazar__ günleri __13:00 - 17:00__ saatleri arasında yapılacaktır.
 + Kursumuzun toplam ücreti KDV dahil __12.500__ TL’dir(Peşin ödemede __11.250__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __11.220__ TL’dir (peşin ödemede __10.150__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
-+ 
+  
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-I-Kursu-21-Ekim-2023/blob/main/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-I-Kursu-21-Ekim-2023/blob/main/kurs_icerigi.md)
