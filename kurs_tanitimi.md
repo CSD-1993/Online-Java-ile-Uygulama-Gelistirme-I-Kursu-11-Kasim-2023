@@ -1,8 +1,7 @@
-# Online Java ile Uygulama Geliştirme Kursu (I)
+# Online Java ile Uygulama Geliştirme Kursu (I) - Genel Tanıtım
 
-+ Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından __Sistem Bilgisayar__ işbirliği ile düzenlenmektedir.
-+ __Covid19 Salgını__ ile yapılan düzenlemeler dahilinde kursa geçici olarak fiziksel katılım söz konusu değildir. Ancak salgına ilişkin koşullar ve yasal düzenlemeler değiştiğinde fiziksel katılım mümkün olacaktır.
- 
++ Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve __Sistem Bilgisayar__ iş birliği ile düzenlenmektedir.
+
 + Bu kurs katılımcıların öncelikle Java programlama dilini kullanarak profesyonel düzeyde uygulama geliştirme becerisi edinmelerini hedeflemektedir.
 
 + Java ile uygulama geliştirmede çok yaygın olarak kullanılan "Spring (boot)" anlatılacaktır.
@@ -74,8 +73,8 @@ _Java ile Uygulama Geliştirme_ kursu ilgili eğitim materyalleri program süres
 
 ## Eğitim Ücreti
 Kursumuzun toplam ücreti KDV dahil __12.500__ TL’dir(Peşin ödemede __11.250__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __11.220__ TL’dir (peşin ödemede __10.150__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
-## Eğitim Programına Kayıt
-[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZcqcOGgrD0sGtA4c6aeLts6aw1JNKQDjBCA#/registration). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+## Ön Kayıt
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZcqcOGgrD0sGtA4c6aeLts6aw1JNKQDjBCA#/registration)
 
 ## Sık Sorulan Sorular
 _Java ile Uygulama Geliştirme Kursu_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-I-Kursu-21-Ekim-2023/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
