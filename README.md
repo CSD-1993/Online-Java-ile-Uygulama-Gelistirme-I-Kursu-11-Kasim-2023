@@ -1,6 +1,6 @@
 # Online Java ile Uygulama Gelistirme (I) Kursu - 11 Kasım 2023
 
-+ Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
++ Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve Sistem Bilgisayar İş birliği ile düzenlenmektedir.
 + Kurs __11 Kasım 2023 Cumartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz KARAN__'dır.
 + Kurs gerçek zamanlıdır.
