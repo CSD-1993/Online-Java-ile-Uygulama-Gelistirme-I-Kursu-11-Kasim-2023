@@ -1,4 +1,4 @@
-# Java ile Uygulama Geliştirme (I)
+# Online Java ile Uygulama Geliştirme (I) Kursu - İçerik
 
 ## Yararlı sınıflar
     StringBuilder sınıfı
@@ -144,3 +144,5 @@
     Spring properties dosyasının çalışma zamanında okunması
     Örnek Uygulamalar
 
+## Ön Kayıt
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZcqcOGgrD0sGtA4c6aeLts6aw1JNKQDjBCA#/registration)
