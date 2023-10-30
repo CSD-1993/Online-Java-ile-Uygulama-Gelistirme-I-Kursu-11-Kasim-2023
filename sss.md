@@ -3,7 +3,7 @@
 Aşağıda __Oğuz Karan__ tarafından verilen _Online Java ile Uygulama Geliştirme Kursu_ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
 ### Kursa örgün (fiziksel) katılım mümkün mü?
-Evet. Ancak __Covid19__ Salgını ile yapılan düzenlemeler dahilinde kursa geçici olarak fiziksel katılım söz konusu değildir. Ancak salgına ilişkin koşullar ve yasal düzenlemeler değiştiğinde fiziksel katılım mümkün olacaktır.
+Hayır.
 
 ### Kurs programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
 Hayır. 
@@ -48,3 +48,5 @@ Eğer daha önce programlama ile tanışmadıysanız bu kursa katılmanız uygun
 ### Kurs bitiminde sertifika alabilecek miyim?
 Evet. Bu kurs sonunda kursa katılanlara __C ve Sistem Programcıları Derneği__ tarafından düzenlenen bitirme sertifikası verilecektir.
 
+## Ön Kayıt
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZcqcOGgrD0sGtA4c6aeLts6aw1JNKQDjBCA#/registration)
