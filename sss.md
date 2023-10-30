@@ -3,7 +3,7 @@
 Aşağıda __Oğuz Karan__ tarafından verilen _Online Java ile Uygulama Geliştirme Kursu_ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
 ### Kursa örgün (fiziksel) katılım mümkün mü?
-Hayır.
+Hayır. Kursumuz online ve gerçek zamanlıdır. Derslerimiz interaktif olarak yapılmaktadır.
 
 ### Kurs programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
 Hayır. 
